@@ -18,3 +18,4 @@ stable diffusion模型各个组件：<br />
 4. encoder_newW：图片编码器<br />
 
 权重文件下载连接： <br />
+链接：https://pan.baidu.com/s/1stkLVFxYMUHHSvfStOlkyQ?pwd=52dl 提取码：52dl
